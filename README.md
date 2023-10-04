@@ -12,7 +12,7 @@
 * 원자력 발전
 
  ### 한국핵융합에너지연구원
- [채용공고](https://www.kfe.re.kr/board.es;jsessionid=8C0031C2064E2D4D853969FA157916C0?mid=a10304010000&bid=0013)
+ [채용공고] https://www.kfe.re.kr/board.es;jsessionid=8C0031C2064E2D4D853969FA157916C0?mid=a10304010000&bid=0013
  * 핵융합 발전을 연구하는 기업.
  * 전세계에 몇 없는 핵융합 발전 연구시설, K-star가 존재함.
 
